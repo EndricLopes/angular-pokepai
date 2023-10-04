@@ -4,7 +4,8 @@ Projeto feito para o bootcamp Santander.
 
 ## Veja o site
 
-![image](https://github.com/EndricLopes/angular-pokepai/assets/142428267/bb0d1e80-345b-45b9-9920-eaaffc30f927)
+![image](https://github.com/EndricLopes/angular-pokepai/assets/142428267/94a56cc4-4518-4a15-b2df-00fa2546ed68)
+
 
 
 ## Development server
