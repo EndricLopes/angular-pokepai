@@ -1,6 +1,11 @@
-# AngularServices
+# Busca Pokemon
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+Projeto feito para o bootcamp Santander.
+
+## Veja o site
+
+![image](https://github.com/EndricLopes/angular-pokepai/assets/142428267/bb0d1e80-345b-45b9-9920-eaaffc30f927)
+
 
 ## Development server
 
